@@ -1,4 +1,4 @@
-# 💼 Tanzina Akter — Portfolio Website
+# 💼 Tanzina Akter 
 
 Welcome to the source code of my professional **Portfolio Website**, built to showcase my work as a **software developer and IT service provider**. This site is designed using clean HTML, CSS, and JavaScript with beautiful animations, responsive design, and a modern user interface.
 
